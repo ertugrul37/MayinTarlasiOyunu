@@ -21,29 +21,3 @@ Bitirme Projesi: Mayın Tarlası Oyunu
 8- Mayın yok ise, ilgili noktaya değen tüm konumlarına bakılmalı (sağı, solu, yukarısı, aşağısı, sol üst çapraz, sağ üst çapraz, sağ alt çapraz, sol alt çapraz) ve etrafındaki mayınların sayısının toplamı ilgili noktaya yazılmalı. Noktaya değen herhangi bir mayın yok ise "0" değeri atanmalı.
 
 10- Kullanıcı hiç bir mayına basmadan tüm noktaları seçebilirse oyunu kazanmalı.
-
-# Çıktı
-
-Mayın Tarlası Oyuna Hoşgeldiniz!
-Satır sayısını giriniz: 6
-Sütun sayısını giriniz: 6
-===========================
-- - - - - - 
-- - - - - - 
-- - - - - - 
-- - - - - - 
-- - - - - - 
-- - - - - - 
-===========================
-Satır Giriniz : 4
-Sütun Giriniz : 3
-===========================
-- - - - - - 
-- - - - - - 
-- - - - - - 
-- - - - - - 
-- - - 3 - - 
-- - - - - - 
-===========================
-Satır Giriniz : 
-Process finished with exit code 130
