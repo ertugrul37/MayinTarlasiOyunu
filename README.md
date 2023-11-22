@@ -22,95 +22,28 @@ Bitirme Projesi: Mayın Tarlası Oyunu
 
 10- Kullanıcı hiç bir mayına basmadan tüm noktaları seçebilirse oyunu kazanmalı.
 
+# Çıktı
 
-# Kaybetme Senaryosu
-
-Mayınların Konumu
-* - - 
-- - * 
-- - - ===========================
-Mayın Tarlası Oyuna Hoşgeldiniz !
-- - - 
-- - - 
-- - - 
-Satır Giriniz : 0
-Sütun Giriniz : 1 ===========================
-- 2 - 
-- - - 
-- - - 
-Satır Giriniz : 2
-Sütun Giriniz : 0 ===========================
-- 2 - 
-- - - 
-0 - - 
-Satır Giriniz : 0
-Sütun Giriniz : 2 ===========================
-- 2 1 
-- - - 
-0 - - 
-Satır Giriniz : 1
-Sütun Giriniz : 0 ===========================
-- 2 1 
-1 - - 
-0 - - 
-Satır Giriniz : 2
-Sütun Giriniz : 1 ===========================
-- 2 1 
-1 - - 
-0 1 - 
-Satır Giriniz : 2
-Sütun Giriniz : 2 ===========================
-- 2 1 
-1 - - 
-0 1 1 
-Satır Giriniz : 1
-Sütun Giriniz : 2
-Game Over!! ===========================
-
-
-# Kazanma Senaryosu
-
-Mayınların Konumu
-- - - 
-- * - 
-- * - ===========================
-Mayın Tarlası Oyuna Hoşgeldiniz !
-- - - 
-- - - 
-- - - 
-Satır Giriniz : 0
-Sütun Giriniz : 0 ===========================
-1 - - 
-- - - 
-- - - 
-Satır Giriniz : 0
-Sütun Giriniz : 1 ===========================
-1 1 - 
-- - - 
-- - - 
-Satır Giriniz : 0
-Sütun Giriniz : 2 ===========================
-1 1 1 
-- - - 
-- - - 
-Satır Giriniz : 1
-Sütun Giriniz : 0 ===========================
-1 1 1 
-2 - - 
-- - - 
-Satır Giriniz : 2
-Sütun Giriniz : 0 ===========================
-1 1 1 
-2 - - 
-2 - - 
-Satır Giriniz : 1
-Sütun Giriniz : 2 ===========================
-1 1 1 
-2 - 2 
-2 - - 
-Satır Giriniz : 2
-Sütun Giriniz : 2
-Oyunu Kazandınız !
-1 1 1 
-2 - 2 
-2 - 2 ===========================
+Mayın Tarlası Oyuna Hoşgeldiniz!
+Satır sayısını giriniz: 6
+Sütun sayısını giriniz: 6
+===========================
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+===========================
+Satır Giriniz : 4
+Sütun Giriniz : 3
+===========================
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - 3 - - 
+- - - - - - 
+===========================
+Satır Giriniz : 
+Process finished with exit code 130
